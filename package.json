@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-themoviedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusudiz/Consumo-Api-themovieDB.git"
+  },
+  "author": "@jesusudiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusudiz/Consumo-Api-themovieDB/issues"
+  },
+  "homepage": "https://github.com/jesusudiz/Consumo-Api-themovieDB#readme"
+}
